@@ -8,4 +8,6 @@
 
 This paper introduce Federated Learning method with adaptive averaging strategy into wake word detection task.
 
+$\sum_{i=1}^{n}i$
+
 
