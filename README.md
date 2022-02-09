@@ -10,7 +10,7 @@ Introduce a framework called HeteroFL to train heterogeneous local models with v
 
 The first work to allow local models to have different architectures from the global model.
 
-![](C:\Users\scott\Documents\paper-reading\assets\2022-02-09-20-01-10-image.png)
+![](assets/2022-02-09-20-01-10-image.png)
 
 ### How To Backdoor Federated Learning [[pdf](https://arxiv.org/pdf/1807.00459.pdf)]
 
@@ -24,7 +24,7 @@ Federated learning is generically vulnerable to model poisoning
   
   because they require access to the training data or model updates.
 
-![](C:\Users\scott\Documents\paper-reading\assets\2022-02-09-19-59-41-image.png)
+![](assets/2022-02-09-19-59-41-image.png)
 
 ### Federated Learning for Keyword Spotting [[pdf](https://arxiv.org/pdf/1810.05512.pdf)]
 
