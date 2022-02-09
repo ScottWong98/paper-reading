@@ -2,6 +2,13 @@
 
 ## 2022-02
 
+### PyVertical: A Vertical Federated Learning Framework For Multi-headed SplitNN [[pdf](https://arxiv.org/pdf/2104.00489.pdf)]
+
+> System
+> 
+
+Introduce a framework supporting vertical federated learning using split neural network.
+
 ### HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients [[pdf](https://arxiv.org/pdf/2010.01264.pdf)]
 
 > Heterogeneous
