@@ -2,7 +2,7 @@
 
 ## 2022-02
 
-### Survey of Personalization Techniques for Federated Learning [pdf]
+### Survey of Personalization Techniques for Federated Learning [[pdf](https://arxiv.org/pdf/2003.08673.pdf)]
 
 > Survey, Personalization
 
@@ -18,7 +18,7 @@ Techniques:
 - Base + Personalization Layers
 - Mixture of Global and Local Models
 
-### Can You Really Backdoor Federated Learning? [pdf]
+### Can You Really Backdoor Federated Learning? [[pdf](https://arxiv.org/pdf/1911.07963.pdf)]
 
 > Security
 
