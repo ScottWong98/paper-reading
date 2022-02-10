@@ -2,6 +2,16 @@
 
 ## 2022-02
 
+### Can You Really Backdoor Federated Learning? [pdf]
+
+> Security
+
+Study backdoor attacks and defenses for federated learning under EMNIST dataset.
+
+- In the absence of any defense, the performance of the adversary largely depends on the fraction of adversaries present.
+- norm clipping limits the success of known backdoor attacks
+- adding a small amount of Gaussian noise, in addition to norm clipping, can help further mitigate the effect of adversaries.
+
 ### Federated Optimization in Heterogeneous Networks [[pdf](https://arxiv.org/pdf/1812.06127.pdf)]
 
 > Model Aggregation
