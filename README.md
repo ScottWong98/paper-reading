@@ -2,6 +2,14 @@
 
 ## 2022-02
 
+### Federated Evaluation of On-device Personalization [[pdf](https://arxiv.org/pdf/1910.10252.pdf)]
+
+> Personalization
+
+Introduce tools to perform Federated Personalization Evaluation and analyze results in a privacy-preserving manner.
+
+The first evaluation of personalization using privacy-preserving techniques on a large population of live users.
+
 ### Survey of Personalization Techniques for Federated Learning [[pdf](https://arxiv.org/pdf/2003.08673.pdf)]
 
 > Survey, Personalization
