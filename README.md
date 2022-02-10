@@ -2,6 +2,22 @@
 
 ## 2022-02
 
+### Survey of Personalization Techniques for Federated Learning [pdf]
+
+> Survey, Personalization
+
+Personalization of the global model is used to handling the challenges posed by statistical heterogeneity and non-IID distribution of data.
+
+Techniques:
+
+- Adding User Context
+- Transfer Learning
+- Multi-Task Learning
+- Meta-Learning
+- Knowledge Distillation
+- Base + Personalization Layers
+- Mixture of Global and Local Models
+
 ### Can You Really Backdoor Federated Learning? [pdf]
 
 > Security
