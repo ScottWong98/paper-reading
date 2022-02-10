@@ -2,10 +2,34 @@
 
 ## 2022-02
 
+### Federated Optimization in Heterogeneous Networks [[pdf](https://arxiv.org/pdf/1812.06127.pdf)]
+
+> Model Aggregation
+> 
+
+Introduce FedProx to tackle heterogeneous in federated networks.
+
+The heterogeneous in federated networks:
+
+- System heterogeneous: different size of participants
+- Statistical heterogeneous: data is non-iid
+
+FedAvg can’t address the underlying challenges associated with heterogeneity:
+
+- System: FedAvg simply drop devices that fail to complete local updates
+- Statistical: FedAvg is difficult to analyze theoretically and lacks convergence guarantees.
+
+FedProx:
+
+- Variable amounts of work to be performed locally across devices based on their available systems resources
+- Add a proximal term to objective
+
+![picture 1](assets/2022-02-10-15-36-14-image.png)  
+
+
 ### PyVertical: A Vertical Federated Learning Framework For Multi-headed SplitNN [[pdf](https://arxiv.org/pdf/2104.00489.pdf)]
 
 > System
-> 
 
 Introduce a framework supporting vertical federated learning using split neural network.
 
