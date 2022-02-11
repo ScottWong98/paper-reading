@@ -2,6 +2,25 @@
 
 ## 2022-02
 
+### Salvaging Federated Learning by Local Adaptation [[pdf](https://arxiv.org/pdf/2002.04758.pdf)]
+
+> Personalization
+
+**Contributions:**
+
+Does federated learning yield more accurate models for them?
+
+What can they do locally to improve the quality of models they obtain from FL?
+
+1. privacy and robustness protections destroy the accuracy of federated models for many participants, removing their main incentive to join federated learning
+2. use local adaptation to convert the federated model into individual models for each participant
+3. investigate adaptation mechanisms: fine-tuning, freeze-base, multi-task learning, and knowledge distillation
+
+Tradeoff at the heart of FL:
+
+- To learn a joint model that is accurate for individual participants, aggregation must incorporate contributions from every participant.
+- To protect data privacy and model integrity, aggregation must limit the influence of these contributions, producing an inaccurate model
+
 ### Federated Evaluation of On-device Personalization [[pdf](https://arxiv.org/pdf/1910.10252.pdf)]
 
 > Personalization
