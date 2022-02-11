@@ -2,6 +2,65 @@
 
 ## 2022-02
 
+### A survey on security and privacy of federated learning [[pdf](https://www.sciencedirect.com/science/article/pii/S0167739X20329848)]
+
+> Survey, Security
+> 
+
+**Background** of Federated Learning:
+
+- three major factor for the success of ML
+    
+    big data, computational power, deep learning model
+    
+- two major obstacles for the application of ML:
+    
+    data privacy and confidentiality, inadequate data and training cost
+    
+- introduce federated learning to solve the above obstacles
+- the application of federated learning:
+    
+    next word prediction on keyboards, wake word detection
+    
+    wireless communication, security domain, intelligent transportation industry, computer vision domain, medical domain
+    
+
+**Categorization** of FL approaches:
+
+- Network Topology: Centralized & Clustered FL, Fully Decentralized FL
+- Data Availability: Cross silo FL, Cross device FL
+- Data Partition: HFL, VFL, FTL
+- Aggregating / Optimizing Algorithms: Aggregation Algorithm, Communication Cost / Efficiency
+- Open-Source Frameworks: TFF, PySyft, FATE, FedML
+
+**Security** in FL:
+
+- Source of vulnerabilities in FL:
+    
+    Communication Protocol, Client Data Manipulations, Compromised Central Server, Weaker Aggregation Algorithm, Implement of FL Environment
+    
+- Security attacks in FL:
+    
+    ![picture 1](assets/2022-02-11-22-35-04-image.png)  
+    
+- Defensive techniques for security vulnerabilities of FL:
+    
+    ![picture 2](assets/2022-02-11-22-35-16-image.png)  
+
+**Privacy** in FL:
+
+- Privacy attacks in FL:
+    
+    Membership inference attacks, Unintentional data leakage & reconstruction through inference, GANs-based inference attacks
+    
+- Approaches to enhance privacy preservation in FL:
+    
+    ![picture 3](assets/2022-02-11-22-35-42-image.png)  
+
+- Associated cost with the privacy-preserving techniques
+    
+    If the FL model preserves more privacy, it loses more accuracy and costs more time to converge. On the contrary, if the FL model needs to preserve a certain degree of accuracy or converge time, it needs to estimate if the privacy protection level is acceptable or not.
+
 ### Salvaging Federated Learning by Local Adaptation [[pdf](https://arxiv.org/pdf/2002.04758.pdf)]
 
 > Personalization
