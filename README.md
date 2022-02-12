@@ -2,10 +2,35 @@
 
 ## 2022-02
 
+### Threats to Federated Learning: A Survey [[pdf](https://arxiv.org/pdf/2003.02133.pdf)]
+
+> Survey, Security
+
+**Threat Models:**
+
+- Insider v.s. Outsider
+- Semi-honest v.s. Malicious
+- Training Phase v.s. Inference Phase
+
+**Poisoning Attacks:**
+
+- Data Poisoning
+    - two categories: clean-label, dity-label
+    - examples: label-flipping attack
+- Model Poisoning
+    - aim to poison local model updates
+    - examples: backdoor attack
+
+**Inference Attacks:**
+
+- Inferring Class Representatives: GAN attack
+- Inferring Membership: gradient ascent attack
+- Inferring Properties: property inference attack
+- Inferring Training Inputs and Labels: deep leakage from gradient (DLG), improved DLG (iDLG)
+
 ### A survey on security and privacy of federated learning [[pdf](https://www.sciencedirect.com/science/article/pii/S0167739X20329848)]
 
 > Survey, Security
-> 
 
 **Background** of Federated Learning:
 
