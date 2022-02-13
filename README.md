@@ -6,6 +6,8 @@
 
 > Security
 
+**Requirements** of DLG: differentiable model
+
 **Contributions**:
 
 - Demonstrate that it is possible to obtain the private training data from the shared gradients. And DLG is the first algorithm achieving it.
