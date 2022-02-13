@@ -2,6 +2,21 @@
 
 ## 2022-02
 
+### Deep Leakage from Gradients [[pdf](https://arxiv.org/pdf/1906.08935.pdf)]
+
+> Security
+
+**Contributions**:
+
+- Demonstrate that it is possible to obtain the private training data from the shared gradients. And DLG is the first algorithm achieving it.
+- DLG only requires the gradients instead of extra information
+- Discuss several defense strategies against the attack: Noisy Gradients, Gradient Compression and Sparsification, Large Batch, High Resolution and Cryptology
+
+![picture 5](assets/2022-02-13-21-26-12-image.png)  
+
+![picture 4](assets/2022-02-13-21-25-47-image.png)  
+
+
 ### Threats to Federated Learning: A Survey [[pdf](https://arxiv.org/pdf/2003.02133.pdf)]
 
 > Survey, Security
