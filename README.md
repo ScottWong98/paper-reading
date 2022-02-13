@@ -2,6 +2,26 @@
 
 ## 2022-02
 
+### iDLG: Improved Deep Leakage from Gradients [[pdf](https://arxiv.org/pdf/2001.02610.pdf)]
+
+> Security
+> 
+
+**Requirements** of iDLG: differentiable model trained with cross-entropy loss over one-hot labels
+
+Contributions:
+
+- Reveal the relationship between labels and signs of gradients:
+    
+    the gradient of the classification (cross-entropy) loss w.r.t. the correct label activation (in the output layer) lies in (−1, 0), while those
+    of other labels lie in (0, 1)
+    
+- Present an analytical procedure to extract the ground-truth labels from the shared gradients with 100% accuracy
+- Demonstrate the advantages of iDLG over DLG
+
+![picture 6](assets/2022-02-13-21-58-32-image.png)  
+
+
 ### Deep Leakage from Gradients [[pdf](https://arxiv.org/pdf/1906.08935.pdf)]
 
 > Security
