@@ -2,6 +2,16 @@
 
 ## 2022-02
 
+### Personalized Cross-Silo Federated Learning on Non-IID Data [[pdf](https://arxiv.org/pdf/2007.03797.pdf)]
+
+> Personalization
+
+Introduce FedAMP and HeurFedAMP  to tackle the problem of personalized cross-silo federated learning.
+
+FedAMP and HeurFedAMP use attentive message passing mechanism to facilitate the collaboration effectiveness between clients without infringing their data privacy.
+
+![picture 7](assets/2022-02-15-21-03-05-image.png)  
+
 ### A Secure Federated Transfer Learning Framework [[pdf](https://arxiv.org/pdf/1812.03337.pdf)]
 
 > FTL
