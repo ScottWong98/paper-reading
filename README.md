@@ -2,6 +2,20 @@
 
 ## 2022-02
 
+### A Secure Federated Transfer Learning Framework [[pdf](https://arxiv.org/pdf/1812.03337.pdf)]
+
+> FTL
+
+The first framework to enable federated learning to benefit from transfer learning.
+
+- HE-based FTL
+    
+    simple, but computationally expensive
+    
+- Secret Sharing based FTL
+    
+    no accuracy loss, computation is faster, but has to offline generate and store many triplets before online computation
+
 ### iDLG: Improved Deep Leakage from Gradients [[pdf](https://arxiv.org/pdf/2001.02610.pdf)]
 
 > Security
