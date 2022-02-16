@@ -2,6 +2,30 @@
 
 ## 2022-02
 
+### No Fear of Heterogeneity: Classifier Calibration for Federated Learning with Non-IID Data [[pdf](https://papers.neurips.cc/paper/2021/file/2f2b265625d76a6704b08093c652fd79-Paper.pdf)]
+
+> Heterogeneous 
+NIPS2021
+> 
+
+The **first** to decouple the representation and classifier in federated learning.
+
+**Issue**: how the data heterogeneity affects each layer of a deep classification model?
+
+**Observations:**
+
+- there exists a greater bias in the classifier than other layers
+- the classification performance can be significantly improved by post-calibrating the classifier after federated training
+
+**Solution:** propose a algorithm called Classifier Calibration with Virtual Representations (CCVR), which adjusts the classifier using virtual representations sampled from an approximated gaussian mixture model.
+
+For federated models trained on non-IID data, the deeper layers have heavier heterogeneity across different clients
+
+**Limitations**:
+
+- it can only serve as an experimental study use but cannot be applied to the real federated learning system
+- only focus on image classification task (CNN) in this paper
+
 ### Personalized Cross-Silo Federated Learning on Non-IID Data [[pdf](https://arxiv.org/pdf/2007.03797.pdf)]
 
 > Personalization
