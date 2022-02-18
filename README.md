@@ -2,6 +2,22 @@
 
 ## 2022-02
 
+### FedBoost: Communication-Efficient Algorithms for Federated Learning [[pdf](http://proceedings.mlr.press/v119/hamer20a/hamer20a.pdf)]
+
+> Communication
+ICML2020
+> 
+
+**Question:** 
+
+Can we learn very large models in federated learning that may not fit in client devices’ memory?
+
+**Solution:**
+
+Introduce a communication-efficiency method, FedBoost, to tackle the server-to-client communication problem.
+
+FedBoost incorporate **ensemble methods** to optimize density estimation.
+
 ### No Fear of Heterogeneity: Classifier Calibration for Federated Learning with Non-IID Data [[pdf](https://papers.neurips.cc/paper/2021/file/2f2b265625d76a6704b08093c652fd79-Paper.pdf)]
 
 > Heterogeneous 
