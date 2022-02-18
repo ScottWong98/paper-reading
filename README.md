@@ -2,6 +2,12 @@
 
 ## 2022-02
 
+### Fed2: Feature-Aligned Federated Learning [[pdf](https://arxiv.org/pdf/2111.14248.pdf)]
+
+> KDD2021
+
+solve the weight divergence problem
+
 ### FedBoost: Communication-Efficient Algorithms for Federated Learning [[pdf](http://proceedings.mlr.press/v119/hamer20a/hamer20a.pdf)]
 
 > Communication
