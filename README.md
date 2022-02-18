@@ -2,6 +2,16 @@
 
 ## 2022-02
 
+### Federated Adversarial Debiasing for Fair and Transferable Representations [[pdf](https://dl.acm.org/doi/abs/10.1145/3447548.3467281)]
+
+> Heterogeneous 
+KDD2021
+> 
+
+Propose a framework called **F**ederated **A**dversarial **DE**biasing (FADE), which preserves the user privacy and allows user to freely opt-in/out the learning of the adversarial component.
+
+FADE is the first to study the properties of adversarial learning in the federated setting.
+
 ### FedRS: Federated Learning with Restricted Softmax for Label Distribution Non-IID Data [[pdf](https://dl.acm.org/doi/abs/10.1145/3447548.3467254)]
 
 > Heterogeneous 
