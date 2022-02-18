@@ -2,6 +2,16 @@
 
 ## 2022-02
 
+## FLOP: Federated Learning on Medical Datasets using Partial Networks [[pdf](https://arxiv.org/pdf/2102.05218.pdf)]
+
+> Application
+KDD2021
+> 
+
+Introduce a framework called **F**ederated **L**earning **o**n Medical Datasets using **P**artial Networks (FLOP)
+
+![picture 1](assets/2022-02-18-12-56-46-image.png)  
+
 ### Fed2: Feature-Aligned Federated Learning [[pdf](https://arxiv.org/pdf/2111.14248.pdf)]
 
 > KDD2021
