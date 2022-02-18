@@ -2,7 +2,21 @@
 
 ## 2022-02
 
-## FLOP: Federated Learning on Medical Datasets using Partial Networks [[pdf](https://arxiv.org/pdf/2102.05218.pdf)]
+### FedRS: Federated Learning with Restricted Softmax for Label Distribution Non-IID Data [[pdf](https://dl.acm.org/doi/abs/10.1145/3447548.3467254)]
+
+> Heterogeneous 
+KDD2021
+> 
+
+Study the label distribution non-iid challenge in FL and in-depth analyze the most vulnerable layer, i.e., softmax classification layer in deep networks.
+
+Advocate the classification weights of missing classes should be updated carefully during local procedure.
+
+Propose Restricted Softmax and FedRS to obtain a more accurate aggregation:
+
+![picture 2](assets/2022-02-18-14-06-58-image.png)  
+
+### FLOP: Federated Learning on Medical Datasets using Partial Networks [[pdf](https://arxiv.org/pdf/2102.05218.pdf)]
 
 > Application
 KDD2021
