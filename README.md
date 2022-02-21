@@ -2,6 +2,17 @@
 
 ## 2022-02
 
+### Federated Learning for Non-IID Data via Unified Feature Learning and Optimization Objective Alignment [[pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Federated_Learning_for_Non-IID_Data_via_Unified_Feature_Learning_and_ICCV_2021_paper.pdf)]
+
+> Heterogeneous 
+ICCV2021
+> 
+
+Propose a framework called Unified Feature learning and Optimization objectives alignment method (FedUFO) for non-IID FL.
+
+- adversary module: reduce the divergence on feature representation among different clients
+- two consensus losses:  reduce the inconsistency on optimization objectives from two perspectives
+
 ### Federated Adversarial Debiasing for Fair and Transferable Representations [[pdf](https://dl.acm.org/doi/abs/10.1145/3447548.3467281)]
 
 > Heterogeneous 
