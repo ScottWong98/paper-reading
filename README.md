@@ -2,6 +2,14 @@
 
 ## 2022-02
 
+### Sageflow: Robust Federated Learning against Both Stragglers and Adversaries [[pdf](https://papers.nips.cc/paper/2021/file/076a8133735eb5d7552dc195b125a454-Paper.pdf)]
+
+> Security, Stragglers
+NIPS2021
+> 
+
+Propose Sageflow, staleness-aware grouping with entropy-based filtering and loss-weighted averaging, to handle both stragglers and adversaries **simultaneously.**
+
 ### Federated Learning for Non-IID Data via Unified Feature Learning and Optimization Objective Alignment [[pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Federated_Learning_for_Non-IID_Data_via_Unified_Feature_Learning_and_ICCV_2021_paper.pdf)]
 
 > Heterogeneous 
