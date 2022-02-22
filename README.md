@@ -2,6 +2,16 @@
 
 ## 2022-02
 
+### CAFE: Catastrophic Data Leakage in Vertical Federated Learning [[pdf](https://papers.nips.cc/paper/2021/file/08040837089cdf46631a10aca5258e16-Paper.pdf)]
+
+> Security
+NIPS2021
+> 
+
+Propose a method called catastrophic data leakage in vertical federated learning (CAFE) to perform large-batch data leakage with high data recovery quality and theoretical guarantees.
+
+Also, propose fake gradients to mitigate the risk of CAFE.
+
 ### Sageflow: Robust Federated Learning against Both Stragglers and Adversaries [[pdf](https://papers.nips.cc/paper/2021/file/076a8133735eb5d7552dc195b125a454-Paper.pdf)]
 
 > Security, Stragglers
