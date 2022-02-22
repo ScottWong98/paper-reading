@@ -2,6 +2,13 @@
 
 ## 2022-02
 
+### Federated Multi-Task Learning [[pdf](https://arxiv.org/pdf/1705.10467.pdf)]
+
+> Personalization, Multi-Task Learning
+> 
+
+Propose a systems-aware optimization framework for federated multi-task learning called MOCHA, which consider issues of high communication cost, stragglers, and fault tolerance.
+
 ### CAFE: Catastrophic Data Leakage in Vertical Federated Learning [[pdf](https://papers.nips.cc/paper/2021/file/08040837089cdf46631a10aca5258e16-Paper.pdf)]
 
 > Security
