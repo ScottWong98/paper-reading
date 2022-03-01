@@ -2,6 +2,15 @@
 
 ## 2022-03
 
+### What Do We Mean by Generalization in Federated Learning? [[pdf](https://arxiv.org/pdf/2110.14216.pdf)]
+
+> Heterogeneous, Generalization, ICLR2022
+> 
+
+propose a framework for disentangling out-of-sample gap and participation gap
+
+observe and explain differences in behavior across natural and synthetic federated datasets, indicating that dataset synthesis strategy can be important for realistic simulations of generalization in federated learning
+
 ### **Unsupervised Federated Learning is Possible: A Case of Class-Conditional-Sharing Clients [[pdf](https://openreview.net/forum?id=WHA8009laxu)]**
 
 > UFL
