@@ -1,6 +1,17 @@
 # Paper Reading List
 
-## 2022-02
+## 2022-03
+
+### **Unsupervised Federated Learning is Possible: A Case of Class-Conditional-Sharing Clients [[pdf](https://openreview.net/forum?id=WHA8009laxu)]**
+
+> UFL
+> 
+
+Propose federation of unsupervised learning (FedUL), where the unlabeled data are transformed into surrogate labeled data for each of the clients, a modified model is trained by supervised FL, and the wanted model is recovered from the modified model.
+
+![picture 1](assets/2022-03-01-13-50-14-image.png) 
+
+## 2022-02 (25)
 
 ### Federated Multi-Task Learning [[pdf](https://arxiv.org/pdf/1705.10467.pdf)]
 
